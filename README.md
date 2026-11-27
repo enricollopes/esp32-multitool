@@ -30,10 +30,3 @@ Validação física pendente. Após testar, adicionar fotografias da montagem, d
 ## Estado atual
 Protótipo V1.0: código reconstruído, ainda não compilado nem testado em hardware. Uso educacional em ambientes autorizados; não realiza interferência nem conexão às redes detectadas.
 
-## Próximos passos
-- Validar compilação e funcionamento no ESP32.
-- Registrar evidências reais.
-- Estudar integração futura dos módulos CC1101 e NRF24L01.
-
-## Licença
-MIT.
